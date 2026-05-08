@@ -1,0 +1,11 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ 58EE-1A52
+
+ Pasta de C:\Users\50046302832\Desktop\hello_proj
+
+07/05/2026  21:55    <DIR>          .
+07/05/2026  20:48    <DIR>          ..
+07/05/2026  21:55                 0 dir.txt
+07/05/2026  21:10                64 README.md
+               2 arquivo(s)             64 bytes
+               2 pasta(s)   817.598.316.544 bytes dispon¡veis
