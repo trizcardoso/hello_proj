@@ -1,0 +1,12 @@
+ O volume na unidade C ‚ Windows
+ O N£mero de S‚rie do Volume ‚ C2FF-CB9F
+
+ Pasta de C:\Users\50046302832\hello_proj
+
+15/05/2026  19:15    <DIR>          .
+15/05/2026  19:03    <DIR>          ..
+15/05/2026  19:15                 0 arq10.txt
+15/05/2026  18:59               415 dir.txt
+15/05/2026  18:59                64 README.md
+               3 arquivo(s)            479 bytes
+               2 pasta(s)   784.002.215.936 bytes dispon¡veis
