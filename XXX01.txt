@@ -2,8 +2,9 @@
  O N£mero de S‚rie do Volume ‚ C2FF-CB9F
 
  Pasta de C:\Users\50046302832\hello_proj
+<<<<<<< HEAD
 zzzzzzzzzzzzzzzzzzzzzzzz
-15/05/2026  20:46    <DIR>          .
+15/05/2026  20:46    <DIR>          .         .
 15/05/2026  20:45    <DIR>          ..
 15/05/2026  19:15               454 arq10.txt
 15/05/2026  18:59               415 dir.txt
